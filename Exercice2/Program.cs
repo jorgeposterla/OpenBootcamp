@@ -47,14 +47,8 @@ internal class Program
         switch (season)
         {
             case "spring":
-                enterSeason(season);
-                break;
             case "summer":
-                enterSeason(season);
-                break;
             case "autumn":
-                enterSeason(season);
-                break;
             case "winter":
                 enterSeason(season);
                 break;
